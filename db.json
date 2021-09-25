@@ -1,0 +1,80 @@
+{
+    "Clientes": 
+    [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "localidad": "Villa Elisa"
+        },
+        {
+            "id": 2,
+            "nombre": "Tomás",
+            "apellido": "Ramirez",
+            "localidad": "San José"
+        },
+        {
+            "id": 3,
+            "nombre": "Hernan",
+            "apellido": "Ortiz",
+            "localidad": "San Francisco Solano"
+        },
+        {
+            "id": 4,
+            "nombre": "Cecilia",
+            "apellido": "Becchi",
+            "localidad": "Villa Elisa"
+        },
+        {
+            "id": 5,
+            "nombre": "Benicio",
+            "apellido": "Becchi",
+            "localidad": "Villa Elisa"
+        }
+    ],
+    "productos": 
+    [
+        {
+            "id": 1,
+            "nombre": "latop",
+            "precio": "50999.00",
+            "descripción": "HP Laptop",
+            "categoriaId": 1
+        },
+        {
+            "id": 2,
+            "nombre": "monitor",
+            "precio": "32569.99",
+            "descripción": "Monitor LCD LG",
+            "categoriaId": 1
+        },
+        {
+            "id": 3,
+            "nombre": "mouse",
+            "precio": "879.88",
+            "descripción": "Razer Gaming Mouse",
+            "categoriaId": 2
+        },
+        {
+            "id": 4,
+            "nombre": "Teclado",
+            "precio": "2199.99",
+            "descripción": "Teclado gamer Redragon Kumara K552 QWERTY",
+            "categoriaId": 2
+        }
+    ],
+    "categorias": 
+    [
+        {
+            "id": 1,
+            "nombre": "computadoras",
+            "descripción": "computadoras, laptops, monitores, etc"
+        },
+        {
+            "id": 2,
+            "nombre": "gaming",
+            "descripción": "mouse, teclados, etc"
+        }
+    ]
+    
+}
